@@ -1,0 +1,5 @@
+start 10 10
+par 3
+hole 100 100
+hole_size 3
+wall 1 1 1 1 (20,20,20)
